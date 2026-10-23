@@ -1,0 +1,11 @@
+QCN9074 firmware imported from the version pinned by LibWrt 25.12-nss.
+
+Version: WLAN.HK.2.15.0.1.r2-00004-QCAHKSWPL_SILICONZ-1 v1
+Source: https://github.com/laipeng668/ath11k-firmware-ddwrt/tree/0c817c46568ef6871042c7e2efc95ac24a1f02e6/QCN9074/hw1.0
+LibWrt recipe commit: 9f332bc4b911c09ce327093d24479955b8e142b4
+
+The five firmware files are copied byte-for-byte from that source commit.
+Their licenses and notices are supplied by the existing ath11k-firmware
+LICENSE.md and repository Notice.txt; no binary is modified.
+
+Only QCN9074 is updated. Other chipset firmware directories remain intact.
